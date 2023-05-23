@@ -1,4 +1,4 @@
-module github.com/dcb9/binancepay
+module github.com/CryptoConverted/go-binancepay
 
 go 1.18
 
